@@ -1,0 +1,17 @@
+List of Commands:
+
+ls: list contents
+cd: go home
+cd <directory name>: change your directory
+cd  ..: go up
+gedit <file name>: open up to edit
+
+Git Commands:
+
+git clone: git clone --config="http.proxy=http://pat1838:tap10@192.168.2.1:8080" https://github.com/pat1838-cmis/WD.git
+git add <file name>
+git commit -m "Commit Comment": to comment
+git push: to upload it back to the repository on github
+
+
+
