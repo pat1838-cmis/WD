@@ -8,3 +8,5 @@
 7. Close the new document, and it will be renamed.
 8. To save, use the command git add, then git commit -m "comment", and git push
 9. Enter in your username and password for github, and the file will be saved to your repository on github.
+10. Double check to make sure the file is in your repository.
+11. Leave the classroom with a smile on your face. (Until you realize that you have a few more hours to go before you can get home free.)
