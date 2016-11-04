@@ -1,6 +1,6 @@
 1. Enter class
 2. Open up email and copy the link to clone
-3. Open up the terminal and clone the repository
+3. Open up the terminal and clone the repository by pasting the link <git clone --config="http.proxy=http://pat1838:tap10@192.168.2.1:8080" https://github.com/pat1838-cmis/WD.git> and hitting enter
 4. In the terminal, go to the repository using the command cd <file name>
 4. To open up a new document, you must use the command gedit <file name> to open up one of your files
 5. When gedit opens up, there is a button on the top left corner which allows you to open up a new document
