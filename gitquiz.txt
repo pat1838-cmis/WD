@@ -1,0 +1,10 @@
+1. Enter class
+2. Open up email and copy the link to clone
+3. Open up the terminal and clone the repository
+4. In the terminal, go to the repository using the command cd <file name>
+4. To open up a new document, you must use the command gedit <file name> to open up one of your files
+5. When gedit opens up, there is a button on the top left corner which allows you to open up a new document
+6. When you open up that document, in the terminal, use the command gedit <file.txt>.
+7. Close the new document, and it will be renamed.
+8. To save, use the command git add, then git commit -m "comment", and git push
+9. Enter in your username and password for github, and the file will be saved to your repository on github.
