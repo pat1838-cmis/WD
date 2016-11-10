@@ -5,6 +5,7 @@ cd: go home
 cd <directory name>: change your directory
 cd  ..: go up
 gedit <file name>: open up to edit
+python -m SimpleHTTPServer: start development server
 
 Git Commands:
 
@@ -12,6 +13,13 @@ git clone: git clone --config="http.proxy=http://pat1838:tap10@192.168.2.1:8080"
 git add <file name>
 git commit -m "Commit Comment": to comment
 git push: to upload it back to the repository on github
+
+sftp Commands: 
+
+sftp pat1838@cmis-hsteacher
+ls: same
+cd: same
+put <filename>: move file
 
 
 
