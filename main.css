@@ -1,8 +1,37 @@
-main {
-color:red;
+h1 {
+font-family:arial;
+color:white;
+font-size:40px;
 }
 
+html {
+background-color:#ff0099;
+color:white;
+font-family:arial;
+}
 
+h2 {
+font-family:arial;
+color:white;
+font-size:32px;
+background-color: #000000;
+border:solid #ffffff;
+border-width:5px;
+border-radius:5px;
+font-style:italic;
+}
 
+h1 {
+background-color:black;
+border:dotted #ffffff;
+}
 
-
+p {
+color:black;
+font-size:18px;
+background-color:#ffffff;
+border-top-style:dashed;
+border-right-style:dotted;
+border-left-style:dotted;
+border-bottom-style:dashed;
+}
