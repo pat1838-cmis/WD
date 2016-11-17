@@ -2,10 +2,15 @@ h1 {
 font-family:arial;
 color:white;
 font-size:40px;
+text-align:center;
+padding-top: 50px;
+padding-right:50px;
+padding-bottom:50px;
+padding-left:50px;
 }
 
 html {
-background-color:#ff0099;
+background-image:url("http://eskipaper.com/images/digital-wallpaper-11.jpg");
 color:white;
 font-family:arial;
 }
@@ -17,21 +22,30 @@ font-size:32px;
 background-color: #000000;
 border:solid #ffffff;
 border-width:5px;
+border-style:dotted;
 border-radius:5px;
 font-style:italic;
+margin-left:20px;
+text-align:center;
+background-image:url("https://s-media-cache-ak0.pinimg.com/originals/ad/12/c4/ad12c4a12f0bab0fcf0f09496dd61dda.jpg");
 }
 
 h1 {
 background-color:black;
 border:dotted #ffffff;
+background-image:url("http://entropymag.org/wp-content/uploads/2014/10/outer-space-wallpaper-pictures.jpg");
 }
 
 p {
 color:black;
 font-size:18px;
 background-color:#ffffff;
-border-top-style:dashed;
-border-right-style:dotted;
-border-left-style:dotted;
-border-bottom-style:dashed;
+border-style:dotted;
+margin-left:40px;
+padding-top: 50px;
+padding-right:50px;
+padding-bottom:50px;
+padding-left:50px;
+height:100px;
+width:500px;
 }
