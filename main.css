@@ -1,3 +1,26 @@
+
+/*Font-family
+Color
+Font-size 
+Background-color
+Border
+Font-style
+Text-align
+Padding
+Background-image
+Margin
+Text-decoration
+Word-spacing 
+Letter-spacing 
+Height
+Width
+Text-transform 
+Text-indent 
+Text-shadow 
+Outline
+Transform:translate 
+*/
+
 h1 {
 font-family:arial;
 color:white;
@@ -7,6 +30,11 @@ padding-top: 50px;
 padding-right:50px;
 padding-bottom:50px;
 padding-left:50px;
+text-decoration:underline;
+word-spacing:1vh;
+letter-spacing:0.5vw;
+text-shadow:2px 2px gray;
+outline:solid gray;
 }
 
 html {
@@ -23,11 +51,13 @@ background-color: #000000;
 border:solid #ffffff;
 border-width:5px;
 border-style:dotted;
-border-radius:5px;
+border-radius:25pt;
 font-style:italic;
 margin-left:20px;
+margin-right:20px;
 text-align:center;
 background-image:url("https://s-media-cache-ak0.pinimg.com/originals/ad/12/c4/ad12c4a12f0bab0fcf0f09496dd61dda.jpg");
+text-transform:uppercase;
 }
 
 h1 {
@@ -44,8 +74,28 @@ border-style:dotted;
 margin-left:40px;
 padding-top: 50px;
 padding-right:50px;
-padding-bottom:50px;
+padding-bottom:25px;
 padding-left:50px;
 height:100px;
-width:500px;
+width:1000px;
+text-indent:25px;
+transform:translate(15%,5%);
 }
+
+/*Create a new file called "main.css"
+*Add a link element to the head of your index.html file
+<link rel="stylesheet" href="main.css" type="text/css">
+*Edit the main.css file
+*add a declaration for each element in the body of your index.html file.
+*add properties to style the background color of each element.
+*add properties to style the border of each element.
+*add properties to style the font and text of each element.
+*Use at least 20 different properties. Include a list of these 20 at the TOP of your main.css file as a css comment.
+*Use at least 4 different units to set sizes of various aspects of your webpage.
+*Go learn something from 2 classmates; add a comment to your main.css file that describes what you learned. (Transform:translate can move pieces of text wherever you want by entering numbers in the code and I learned how to set am image as a background.)
+*View your index.html in the development server.
+Validate your index.html file.
+Validate your main.css file.
+Copy this list of requirements and paste it into your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
+Upload to the production server with sftp.
+View your index.html in the production server.*/
