@@ -20,6 +20,7 @@ sftp pat1838@cmis-hsteacher
 ls: same
 cd: same
 put <filename>: move file
+*ALWAYS CD TO public_html*
 
 
 
