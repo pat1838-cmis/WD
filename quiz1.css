@@ -2,6 +2,17 @@ h1{
 color:yellow;
 font-style:italic;
 background-color:green;
-font-family:arial;
+font-family:impact;
 }
 
+h2{
+color:yellow;
+font-family:arial;
+background-color:purple;
+}
+
+h3{
+color:purple;
+background-color:yellow;
+font-family:arial;
+}
