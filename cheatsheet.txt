@@ -22,5 +22,8 @@ cd: same
 put <filename>: move file
 *ALWAYS CD TO public_html*
 
+VIEWING FROM PRODUCTION SERVER
+
+
 
 
