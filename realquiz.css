@@ -1,0 +1,53 @@
+html {
+background-color:red;
+margin-left:300px;
+margin-right:300px;
+}
+
+h1 {
+color:yellow;
+font-family:impact;
+font-weight:bold;
+border-left:solid yellow;
+border-width: 35px;
+}
+
+header {
+background-color:blue;
+}
+
+nav {
+color:yellow;
+text-decoration:line-through;
+}
+
+ol {
+border:dotted black;
+}
+
+footer {
+background-color:blue;
+color:white;
+}
+
+h2 {
+border-right:solid green;
+border-width:120px;
+font-family:"verdana";
+letter-spacing:0px;
+}
+
+p {
+color:black;
+}
+
+main {
+background-color:white;
+color:black;
+}
+
+h3 {
+color:white;
+font-size:16px;
+font-family:arial
+}
