@@ -82,6 +82,24 @@ text-indent:25px;
 transform:translate(15%,5%);
 }
 
+main li {
+color:black;
+background-color:white;
+border:solid black;
+}
+
+h1,h2 {
+font-family:arial;
+word-spacing:1vh;
+letter-spacing:0.5vw;
+text-shadow:2px 2px gray;
+}
+
+ul li{
+background-color:white;
+border:solid gray;
+}
+
 /*Create a new file called "main.css"
 *Add a link element to the head of your index.html file
 <link rel="stylesheet" href="main.css" type="text/css">
@@ -94,8 +112,8 @@ transform:translate(15%,5%);
 *Use at least 4 different units to set sizes of various aspects of your webpage.
 *Go learn something from 2 classmates; add a comment to your main.css file that describes what you learned. (Transform:translate can move pieces of text wherever you want by entering numbers in the code and I learned how to set am image as a background.)
 *View your index.html in the development server.
-Validate your index.html file.
-Validate your main.css file.
-Copy this list of requirements and paste it into your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
-Upload to the production server with sftp.
-View your index.html in the production server.*/
+*Validate your index.html file.
+*Validate your main.css file.
+*Copy this list of requirements and paste it into your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
+*Upload to the production server with sftp.
+*View your index.html in the production server.*/
