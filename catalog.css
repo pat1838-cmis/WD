@@ -1,6 +1,5 @@
 html {
 background-image: url("https://www.walldevil.com/wallpapers/a76/stationery-chevron-wallpaper-wedding-bespoke-galleries-weddings2-images.jpg");
-background-repeat:repeat-y repeat-x;
 }
 
 h1 {
@@ -49,4 +48,37 @@ img {
 border:1px double salmon;
 border-width:5px;
 }
+
+img:hover {
+opacity:0.5;
+filter:alpha(opacity=50);
+}
+
+ul {
+font-family:arial;
+}
+
+nav {
+border:solid red;
+margin-bottom:5px;
+}
+
+footer {
+font-family:arial;
+background-color:pink;
+border:solid salmon;
+}
+
+article { 
+margin-bottom:10px;
+}
+
+main {
+margin-left:200px;
+margin-right:200px;
+background-color:pink;
+border:groove salmon;
+border-width:3px;
+}
+
 
